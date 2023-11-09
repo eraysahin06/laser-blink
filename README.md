@@ -14,6 +14,11 @@ Welcome to Laser Blink, an exciting mobile game crafted with love using the Unit
 
 - **Easy Customization:** The repository includes audio files, prefabs, scenes, scripts, and sprites, making it easy for you to customize and enhance the game according to your preferences.
 
+- **Additional Features:**
+- **Collect Coins:** Unlock new characters by collecting coins during your gameplay.
+- **Score Tracking:** Keep track of your in-game score and challenge yourself to beat your personal best.
+
+
 ## Release
 
 Laser Blink is set to hit the Android Store (Google Play Store) soon. Stay tuned for the official release and get ready to blink through lasers on your mobile device!
