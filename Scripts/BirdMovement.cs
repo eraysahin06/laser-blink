@@ -16,7 +16,7 @@ public class BirdMovement : MonoBehaviour
     public Sprite[] sprites;
 
     private AudioSource audioSource;
-    public bool IsBirdDead
+    public bool IsBirdDead // controlled from other script
     {
         get { return isBirdDead; }
     }
