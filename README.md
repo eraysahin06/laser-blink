@@ -1,5 +1,7 @@
 # Laser Blink
 
+<h3>Don't forget to review my game, it means a lot to me. Thank you :)</h3>
+
 Welcome to Laser Blink, an exciting mobile game crafted with love using the Unity Game Engine and C#. Get ready for a thrilling experience of lasers, precision, and a heart-pounding soundtrack! 🎮🚀
 
 ## Features
